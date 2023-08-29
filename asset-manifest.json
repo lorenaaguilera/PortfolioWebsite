@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.a353e3e8.css",
-    "main.js": "/static/js/main.985b2812.js",
-    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/weatherstation.gif": "/static/media/weatherstation.4ed24a347f36217d4189.gif",
-    "static/media/networksocket.gif": "/static/media/networksocket.87f70e346d3923557203.gif",
-    "static/media/connect5.gif": "/static/media/connect5.785325a69ec486fb224c.gif",
-    "static/media/ichi.gif": "/static/media/ichi.318316f0b768473b11a7.gif",
-    "static/media/lorenaalogo3.png": "/static/media/lorenaalogo3.7600b9fd5c422ff767df.png",
-    "index.html": "/index.html",
-    "main.a353e3e8.css.map": "/static/css/main.a353e3e8.css.map",
-    "main.985b2812.js.map": "/static/js/main.985b2812.js.map",
-    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+    "main.css": "/PortfolioWebsite/static/css/main.a353e3e8.css",
+    "main.js": "/PortfolioWebsite/static/js/main.80a54f82.js",
+    "static/js/787.128fc6e9.chunk.js": "/PortfolioWebsite/static/js/787.128fc6e9.chunk.js",
+    "static/media/weatherstation.gif": "/PortfolioWebsite/static/media/weatherstation.4ed24a347f36217d4189.gif",
+    "static/media/networksocket.gif": "/PortfolioWebsite/static/media/networksocket.87f70e346d3923557203.gif",
+    "static/media/connect5.gif": "/PortfolioWebsite/static/media/connect5.785325a69ec486fb224c.gif",
+    "static/media/ichi.gif": "/PortfolioWebsite/static/media/ichi.318316f0b768473b11a7.gif",
+    "static/media/lorenaalogo3.png": "/PortfolioWebsite/static/media/lorenaalogo3.7600b9fd5c422ff767df.png",
+    "index.html": "/PortfolioWebsite/index.html",
+    "main.a353e3e8.css.map": "/PortfolioWebsite/static/css/main.a353e3e8.css.map",
+    "main.80a54f82.js.map": "/PortfolioWebsite/static/js/main.80a54f82.js.map",
+    "787.128fc6e9.chunk.js.map": "/PortfolioWebsite/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a353e3e8.css",
-    "static/js/main.985b2812.js"
+    "static/js/main.80a54f82.js"
   ]
 }
