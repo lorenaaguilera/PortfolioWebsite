@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/PortfolioWebsite/static/css/main.073c9b0a.css",
-    "main.js": "/PortfolioWebsite/static/js/main.df35b59c.js",
+    "main.css": "/PortfolioWebsite/static/css/main.a353e3e8.css",
+    "main.js": "/PortfolioWebsite/static/js/main.717db8b2.js",
     "static/js/787.128fc6e9.chunk.js": "/PortfolioWebsite/static/js/787.128fc6e9.chunk.js",
-    "static/media/logo.svg": "/PortfolioWebsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/weatherstation.gif": "/PortfolioWebsite/static/media/weatherstation.4ed24a347f36217d4189.gif",
+    "static/media/networksocket.gif": "/PortfolioWebsite/static/media/networksocket.87f70e346d3923557203.gif",
+    "static/media/connect5.gif": "/PortfolioWebsite/static/media/connect5.785325a69ec486fb224c.gif",
+    "static/media/ichi.gif": "/PortfolioWebsite/static/media/ichi.318316f0b768473b11a7.gif",
+    "static/media/lorenaalogo3.png": "/PortfolioWebsite/static/media/lorenaalogo3.7600b9fd5c422ff767df.png",
     "index.html": "/PortfolioWebsite/index.html",
-    "main.073c9b0a.css.map": "/PortfolioWebsite/static/css/main.073c9b0a.css.map",
-    "main.df35b59c.js.map": "/PortfolioWebsite/static/js/main.df35b59c.js.map",
+    "main.a353e3e8.css.map": "/PortfolioWebsite/static/css/main.a353e3e8.css.map",
+    "main.717db8b2.js.map": "/PortfolioWebsite/static/js/main.717db8b2.js.map",
     "787.128fc6e9.chunk.js.map": "/PortfolioWebsite/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.df35b59c.js"
+    "static/css/main.a353e3e8.css",
+    "static/js/main.717db8b2.js"
   ]
 }
